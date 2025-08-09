@@ -1,5 +1,5 @@
 <h1 align="center">Oi, sou o Diego Weber</h1>
-<h3 align="center">| Desenvolvedor em construção 🚧 | <br> | 2/5 Analise e Desenvolvimento de Sistemas |</h3>
+<h3 align="center">| Desenvolvedor em construção 🚧 | <br> | 5/5 Analise e Desenvolvimento de Sistemas |</h3>
 
 <p align="center">
 Olá, meu nome é Diego Weber, tenho 30 anos e moro no Rio de Janeiro. Comecei meus estudos com HTML, CSS e Javascript até decidir começar a estudar Analise e Desenvolvimento de Sistema com previsão de terminar e 2025/2.
